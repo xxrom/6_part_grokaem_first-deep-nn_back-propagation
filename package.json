@@ -1,0 +1,12 @@
+{
+  "name": "6_part_grokaem_first-deep-nn_back-propagation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "nodemonConfig": {
+    "delay": "1"
+  },
+  "scripts": {
+    "dev": "nodemon --exec python3 0_lighter_learning.py ./0_lighter_learning.py"
+  }
+}
