@@ -31,3 +31,5 @@ for i in range(40):
     error_for_all_lights += error
 
   print('global_sum_error^2 = %.5f' % error_for_all_lights)
+
+print('END weights', weights)
